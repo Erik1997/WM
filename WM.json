@@ -1,0 +1,45 @@
+{
+  "room":   "World Music CZ/SK",
+  "author": "Lollipop",
+  "icon":   "",
+  "css":    "",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#E6CC26",
+    "silversubscriber": "#DC24D9",
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "",
+    "playback":         "",
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "https://vgy.me/xzGl7r.png",
+    "cohost":           "https://vgy.me/4xpAHa.png",
+    "manager":          "https://vgy.me/LNJyPX.png",
+    "bouncer":          "https://vgy.me/Yh8lpk.png",
+    "rdj":              "https://vgy.me/ff3ChJ.png",
+    "subscriber":       "https://vgy.me/CSr2Tx.png",
+    "silversubscriber": "https://vgy.me/8Brxr9.png"
+  },
+  "autocomplete": [],
+  "emotes": {
+  }
+}
