@@ -1,7 +1,7 @@
 {
   "room":   "World Music CZ/SK",
   "author": "Lollipop",
-  "icon":   "",
+  "icon":   "https://vgy.me/6F93sk.png",
   "css":    "",
   "rules": {
     "allowAutorespond": true,
@@ -28,7 +28,7 @@
   },
   "images": {
     "background":       "",
-    "playback":         "",
+    "playback":         "https://vgy.me/PdXb4e.jpg",
     "admin":            null,
     "ambassador":       null,
     "host":             "https://vgy.me/xzGl7r.png",
