@@ -2,7 +2,7 @@
   "room":   "World Music CZ/SK",
   "author": "Lollipop",
   "icon":   "https://vgy.me/6F93sk.png",
-  "css":    "",
+  "css":    "https://rawgit.com/ErikaPlugdj/WM/master/WM.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
